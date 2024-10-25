@@ -7,3 +7,4 @@
 * git push
 * git fetch
 * git pull
+* git merge
